@@ -1,0 +1,6 @@
+{
+  "name": "math word problem(vercel version)",
+  "description": "An application that generates customized math word problems for Korean elementary students based on grade, unit, and difficulty level, with an option to export as a DOCX file.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
